@@ -85,9 +85,11 @@ function aleatorio() {
 }
 
 // Función para reproducir una canción
+
 function playSong() {
   reproductor.play();
 }
 
 // Al inicio, cargamos la primera canción del array en el reproductor
+
 cargarCancion(0);
